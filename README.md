@@ -27,6 +27,9 @@ vectorstore/      # Persistent Chroma data
 - Python 3.10+
 - Google Gemini API key (`GOOGLE_API_KEY`)
 
+Activate .venv:
+.venv\Scripts\Activate.ps1
+
 Install dependencies:
 ```bash
 pip install -r requirements.txt
